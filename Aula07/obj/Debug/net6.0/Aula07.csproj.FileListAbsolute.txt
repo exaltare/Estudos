@@ -1,0 +1,15 @@
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\Aula07.csproj.AssemblyReference.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\Aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\Aula07.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\Aula07.AssemblyInfo.cs
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\Aula07.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\bin\Debug\net6.0\Aula07.exe
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\bin\Debug\net6.0\Aula07.deps.json
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\bin\Debug\net6.0\Aula07.runtimeconfig.json
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\bin\Debug\net6.0\Aula07.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\bin\Debug\net6.0\ref\Aula07.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\bin\Debug\net6.0\Aula07.pdb
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\Aula07.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\ref\Aula07.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\Aula07.pdb
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula07\obj\Debug\net6.0\Aula07.genruntimeconfig.cache

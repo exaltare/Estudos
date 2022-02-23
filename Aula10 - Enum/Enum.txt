@@ -1,0 +1,2 @@
+ENUM - Criar um Tipo prorprio com valores pré definidos, vou criar um tipo e definir quais valores ele ira receber 
+

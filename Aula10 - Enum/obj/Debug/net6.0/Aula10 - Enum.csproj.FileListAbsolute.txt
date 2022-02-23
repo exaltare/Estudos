@@ -1,0 +1,15 @@
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\bin\Debug\net6.0\Aula10 - Enum.exe
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\bin\Debug\net6.0\Aula10 - Enum.deps.json
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\bin\Debug\net6.0\Aula10 - Enum.runtimeconfig.json
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\bin\Debug\net6.0\Aula10 - Enum.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\bin\Debug\net6.0\ref\Aula10 - Enum.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\bin\Debug\net6.0\Aula10 - Enum.pdb
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\Aula10 - Enum.csproj.AssemblyReference.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\Aula10 - Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\Aula10 - Enum.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\Aula10 - Enum.AssemblyInfo.cs
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\Aula10 - Enum.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\Aula10 - Enum.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\ref\Aula10 - Enum.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\Aula10 - Enum.pdb
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula10 - Enum\obj\Debug\net6.0\Aula10 - Enum.genruntimeconfig.cache

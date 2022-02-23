@@ -1,0 +1,15 @@
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\bin\Debug\net6.0\Aula11 - TypeCast.exe
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\bin\Debug\net6.0\Aula11 - TypeCast.deps.json
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\bin\Debug\net6.0\Aula11 - TypeCast.runtimeconfig.json
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\bin\Debug\net6.0\Aula11 - TypeCast.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\bin\Debug\net6.0\ref\Aula11 - TypeCast.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\bin\Debug\net6.0\Aula11 - TypeCast.pdb
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\Aula11 - TypeCast.csproj.AssemblyReference.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\Aula11 - TypeCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\Aula11 - TypeCast.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\Aula11 - TypeCast.AssemblyInfo.cs
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\Aula11 - TypeCast.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\Aula11 - TypeCast.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\ref\Aula11 - TypeCast.dll
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\Aula11 - TypeCast.pdb
+C:\Users\dougl\Documents\DEV\C#\Aulas\Aula11 - TypeCast\obj\Debug\net6.0\Aula11 - TypeCast.genruntimeconfig.cache
