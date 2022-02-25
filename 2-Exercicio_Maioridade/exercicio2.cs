@@ -9,7 +9,7 @@ class ExercicioMaioridade{
         Console.WriteLine("QUAL A QUANTIDADE DE PESSOAS QUE DESEJA COMPARAR : ");
         NumeroPessoas = int.Parse(Console.ReadLine());
 
-        int[] NumeroPessoas = new int[NumeroPessoas];
+        int[] numero = new int[NumeroPessoas];
         while (i< NumeroPessoas){
             
             i = i +1; 
@@ -19,6 +19,8 @@ class ExercicioMaioridade{
         } 
         Console.WriteLine(" ||||||DADOS COLETADOS|||||| ");
         Console.WriteLine("UM TOTAL DE {0} : " ,NumeroPessoas);
+        Console.WriteLine(contador);
+
         
         
 
