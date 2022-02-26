@@ -4,6 +4,7 @@ class ExercicioMaioridade{
         int NumeroPessoas;
         int idade;
         int i=0;
+        double media;
         
 
         Console.WriteLine("QUAL A QUANTIDADE DE PESSOAS QUE DESEJA COMPARAR : ");
@@ -19,7 +20,7 @@ class ExercicioMaioridade{
         } 
         Console.WriteLine(" ||||||DADOS COLETADOS|||||| ");
         Console.WriteLine("UM TOTAL DE {0} : " ,NumeroPessoas);
-        Console.WriteLine(contador);
+        Console.WriteLine("A MEDIA DE IDADES É DE {0} ANOS ", media = idade / NumeroPessoas );
 
         
         
