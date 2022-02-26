@@ -3,12 +3,12 @@ using System;
         static void Main(){
 
         int opcao ;
-        //int exercicio;
-
+       
         Console.WriteLine(">>>>>EXALTARE<<<<<");
         Console.WriteLine("ESCOLHA QUAL DESAFIO DESEJA ACESSAR : ");
         Console.WriteLine("[1] DESAFIO IDADE MÉDIA ");
         Console.WriteLine("[2] DESAFIO NUMERO PAR OU IMPAR ");
+        Console.WriteLine("[3] DESAFIO MAIORIDADE");
         Console.WriteLine("[999] SAIR DO PROGRAMA ");
         
         opcao = int.Parse(Console.ReadLine());
@@ -23,6 +23,11 @@ using System;
                 Console.Clear();
                 ParOuImpar();      //chamada do metodo
                 break;
+
+            case 3:
+                Console.Clear();
+                Maiores18Anos();
+                break;                    
             
             case 999:
                 Console.WriteLine("OPCAO INVALIDA");            
@@ -79,9 +84,35 @@ using System;
 
         public static void Maiores18Anos(){
 
-             
+            int NumeroPessoas , idade;
+        int i=0;
+        int maioridade =0;
+        double IdadesTotal =0 ;        
 
-             
+        Console.WriteLine("QUAL A QUANTIDADE DE PESSOAS QUE DESEJA COMPARAR : ");
+        NumeroPessoas = int.Parse(Console.ReadLine());
+        int[] numero = new int[NumeroPessoas];
+
+        
+
+        while (i < NumeroPessoas){
+            
+            i = i +1; 
+            Console.WriteLine("QUAL A IDADE DA {0}ª PESSOA " ,i);
+            idade = int.Parse(Console.ReadLine());    
+            IdadesTotal += idade;        
+
+                if (idade >= 18){
+                    maioridade = maioridade + 1;
+                   
+                } 
+           
+        }
+        Console.WriteLine(" ||||||DADOS COLETADOS|||||| ");
+        Console.WriteLine("TOTAL DE DADOS COLETADO {0} : " ,NumeroPessoas);
+        Console.WriteLine("NO TOTAL {0} PESSOAS SÃO MAIORES DE IDADE ", maioridade );
+        Console.WriteLine("A MEDIA DE IDADE É DE {0}" ,IdadesTotal / NumeroPessoas);
+ 
         }
 
             
