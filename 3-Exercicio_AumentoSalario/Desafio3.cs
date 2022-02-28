@@ -13,8 +13,7 @@ class AumentoSalario{
         for ( int i = 0 ; i < quantidade ; i++) {
             Console.WriteLine("QUAL O VALOR DO SALARIO DO FUNCIONÁRIO ? ");
             
-            salario = double.Parse(Console.ReadLine());
-            
+            salario = double.Parse(Console.ReadLine());           
             
             if (salario <=300){
                 aumento = ((0.50 * salario) + salario);               
