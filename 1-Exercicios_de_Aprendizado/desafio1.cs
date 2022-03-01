@@ -2,8 +2,7 @@ using System;
     class desafio1{
         static void Main(){
 
-        int opcao ;
-       
+        int opcao ;       
         Console.WriteLine(">>>>>EXALTARE<<<<<");
         Console.WriteLine("ESCOLHA QUAL DESAFIO DESEJA ACESSAR : ");
         Console.WriteLine("[1] DESAFIO IDADE MÉDIA ");
@@ -29,14 +28,18 @@ using System;
                 Maiores18Anos();
                 break;                    
             
+            case 4:
+                Console.Clear();
+
+            
             case 999:
                 Console.WriteLine("OPCAO INVALIDA");            
                 break; 
 
             default:
                 Console.WriteLine("OPCAO INVALIDA");
-                break;
-                   
+                break;   
+
         }
         
     }
@@ -49,8 +52,8 @@ using System;
 
             for (indice =0; indice < 4 ; indice++){
                 Console.WriteLine("ENTRE COM A IDADE DO ALUNO" , indice );
-                idade[indice] = float.Parse(Console.ReadLine());
-                
+                idade[indice] = float.Parse(Console.ReadLine());   
+
             }
 
             Console.WriteLine("IDADES : ");
@@ -78,13 +81,13 @@ using System;
                 Console.WriteLine("O NUMERO {0} É IMPAR" ,numero);
 
             }
-            Console.ReadKey();
-            
+            Console.ReadKey();     
+
             }
 
         public static void Maiores18Anos(){
 
-            int NumeroPessoas , idade;
+        int NumeroPessoas , idade;
         int i=0;
         int maioridade =0;
         double IdadesTotal =0 ;        
@@ -93,7 +96,7 @@ using System;
         NumeroPessoas = int.Parse(Console.ReadLine());
         int[] numero = new int[NumeroPessoas];
 
-        
+
 
         while (i < NumeroPessoas){
             
@@ -105,18 +108,22 @@ using System;
                 if (idade >= 18){
                     maioridade = maioridade + 1;
                    
-                } 
-           
-        }
+                }  
+
+
         Console.WriteLine(" ||||||DADOS COLETADOS|||||| ");
         Console.WriteLine("TOTAL DE DADOS COLETADO {0} : " ,NumeroPessoas);
         Console.WriteLine("NO TOTAL {0} PESSOAS SÃO MAIORES DE IDADE ", maioridade );
-        Console.WriteLine("A MEDIA DE IDADE É DE {0}" ,IdadesTotal / NumeroPessoas);
- 
+        Console.WriteLine("A MEDIA DE IDADE É DE {0}" ,IdadesTotal / NumeroPessoas);  
+                        
         }
 
-            
+        
+                
+ 
     }
+   
+}
 
 
 
