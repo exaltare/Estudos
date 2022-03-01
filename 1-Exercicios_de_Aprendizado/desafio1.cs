@@ -8,6 +8,7 @@ using System;
         Console.WriteLine("[1] DESAFIO IDADE MÉDIA ");
         Console.WriteLine("[2] DESAFIO NUMERO PAR OU IMPAR ");
         Console.WriteLine("[3] DESAFIO MAIORIDADE");
+        Console.WriteLine("[4] DESAFIO AUMENTO DE SALÁRIO");
         Console.WriteLine("[999] SAIR DO PROGRAMA ");
         
         opcao = int.Parse(Console.ReadLine());
@@ -30,8 +31,10 @@ using System;
             
             case 4:
                 Console.Clear();
+                Aumento();
+                break;
 
-            
+
             case 999:
                 Console.WriteLine("OPCAO INVALIDA");            
                 break; 
@@ -116,14 +119,42 @@ using System;
         Console.WriteLine("NO TOTAL {0} PESSOAS SÃO MAIORES DE IDADE ", maioridade );
         Console.WriteLine("A MEDIA DE IDADE É DE {0}" ,IdadesTotal / NumeroPessoas);  
                         
+        }    
+    }
+
+    public static void Aumento(){
+        double salario =0;
+        double aumento =0;
+        int quantidade;
+
+        Console.WriteLine("Quantos funcionarios deseja calcular ?");
+        quantidade = int.Parse(Console.ReadLine());
+        Console.Clear();
+        
+        for ( int i = 0 ; i < quantidade ; i++) {
+            Console.WriteLine("QUAL O VALOR DO SALARIO DO FUNCIONÁRIO ? ");
+            
+            salario = double.Parse(Console.ReadLine());           
+            
+            if (salario <=300){
+                aumento = ((0.50 * salario) + salario);               
+            }
+            else{
+                aumento = ((0.30 * salario) + salario);
+            }
+            
+        Console.WriteLine("O FUNCIONARIO PASSARÁ A GANHAR R${0} POR MES" ,aumento);
+        Console.WriteLine("");
         }
 
-        
-                
- 
     }
-   
+
 }
+
+    
+    
+   
+
 
 
 
