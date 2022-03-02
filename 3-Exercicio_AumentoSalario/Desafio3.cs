@@ -5,7 +5,7 @@ class AumentoSalario{
         double salario =0;
         double aumento =0;
         int quantidade;
-        string[] ListaFuncionarios; 
+        string[] ListaFuncionarios;         
 
         Console.WriteLine("Quantos funcionarios deseja calcular ?");
         quantidade = int.Parse(Console.ReadLine());
