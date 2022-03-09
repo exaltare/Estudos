@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\6-50PrimeirosElementos.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\6-50PrimeirosElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\6-50PrimeirosElementos.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\6-50PrimeirosElementos.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\6-50PrimeirosElementos.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\bin\Debug\net5.0\6-50PrimeirosElementos.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\bin\Debug\net5.0\6-50PrimeirosElementos.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\bin\Debug\net5.0\6-50PrimeirosElementos.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\bin\Debug\net5.0\6-50PrimeirosElementos.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\bin\Debug\net5.0\6-50PrimeirosElementos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\bin\Debug\net5.0\6-50PrimeirosElementos.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\6-50PrimeirosElementos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\refint\6-50PrimeirosElementos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\6-50PrimeirosElementos.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\6-50PrimeirosElementos.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\6-50PrimeirosElementos\obj\Debug\net5.0\ref\6-50PrimeirosElementos.dll

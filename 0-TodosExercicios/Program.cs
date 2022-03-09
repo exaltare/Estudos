@@ -19,6 +19,7 @@ namespace _02_AumentoSalario
             Console.WriteLine("[2] DESAFIO NUMERO PAR OU IMPAR ");
             Console.WriteLine("[3] DESAFIO MAIORIDADE");
             Console.WriteLine("[4] DESAFIO AUMENTO DE SALÁRIO");
+            Console.WriteLine("[5] DESAFIO ACERTAR O NUMERO ");
             Console.WriteLine("[999] SAIR DO PROGRAMA ");
 
             opcao = int.Parse(Console.ReadLine());
@@ -45,6 +46,10 @@ namespace _02_AumentoSalario
                     Aumento();
                     break;
 
+                case 5:
+                    Console.Clear();
+                    AcertarNumero();
+                    break;
 
                 case 999:
                     Console.WriteLine("OPCAO INVALIDA");
@@ -175,6 +180,49 @@ namespace _02_AumentoSalario
             {
                 Console.WriteLine(ListaFuncionarios[i]);
             }
+        }
+
+        public static void AcertarNumero()
+        {
+            int chute;
+            int creditos;
+            int gameover = 0;
+            int contador = 0;
+
+            Random myObject = new Random();
+            int aleatorio = myObject.Next(1, 50);
+
+            Console.Write("SEJA BEM VINDO JOGADOR, QUANTOS CREDITOS DESEJA UTILIZAR : ");
+            creditos = int.Parse(Console.ReadLine());
+
+            do
+            {
+                Console.WriteLine("CHUTE UM NUMERO DE 1 ATE 50");
+                chute = int.Parse(Console.ReadLine());
+
+                if (chute < aleatorio)
+                {
+                    creditos -= 1;
+                    contador++;
+                    Console.WriteLine("O NUMERO É MAIS ALTO");
+                    Console.WriteLine();
+
+                }
+                else if (chute > aleatorio)
+                {
+                    creditos -= 1;
+                    contador++;
+                    Console.WriteLine("O NUMERO É MAIS BAIXO");
+                    Console.WriteLine();
+                }
+                else
+                {
+                    Console.WriteLine("NA MOSCA PARABENS VOCE ACERTOU COM {0} TENTATIVA(AS) E TINHA {1} CREDITO(S)", contador, creditos);
+                    Console.WriteLine();
+                }
+            } while (chute != aleatorio && creditos > gameover);
+            Console.WriteLine(" .....GAME OVER.....");
+            Console.ReadKey();
         }
     }
 }

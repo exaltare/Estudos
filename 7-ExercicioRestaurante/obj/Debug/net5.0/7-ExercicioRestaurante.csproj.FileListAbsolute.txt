@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\bin\Debug\net5.0\7-ExercicioRestaurante.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\bin\Debug\net5.0\7-ExercicioRestaurante.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\bin\Debug\net5.0\7-ExercicioRestaurante.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\bin\Debug\net5.0\7-ExercicioRestaurante.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\bin\Debug\net5.0\7-ExercicioRestaurante.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\bin\Debug\net5.0\7-ExercicioRestaurante.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\7-ExercicioRestaurante.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\7-ExercicioRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\7-ExercicioRestaurante.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\7-ExercicioRestaurante.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\7-ExercicioRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\7-ExercicioRestaurante.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\refint\7-ExercicioRestaurante.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\7-ExercicioRestaurante.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\7-ExercicioRestaurante.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\7-ExercicioRestaurante\obj\Debug\net5.0\ref\7-ExercicioRestaurante.dll
