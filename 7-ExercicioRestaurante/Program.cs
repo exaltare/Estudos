@@ -17,7 +17,7 @@ namespace _7_ExercicioRestaurante
             //ETAPA 3->Codicao Idade , incluir 5 mesas
             //ETAPA 4->Sorteio de 3 Pessoas com valor 0
 
-            Console.WriteLine("QUANTAS QUANTAS MESAS SERÃO RESERVADAS ?  ");
+            Console.WriteLine("QUANTAS QUANTAS MESAS SERÃO reservadas ?  ");
             int Quantidade = int.Parse(Console.ReadLine());
 
             //Mesa = new string[Quantidade];
@@ -25,7 +25,7 @@ namespace _7_ExercicioRestaurante
             Horario = new string[Quantidade];
             Idade = new int[Quantidade];
             Valor = new double[Quantidade];
-
+                        
         }
         public static void Mesas(int Quantidade)
         {
@@ -37,16 +37,12 @@ namespace _7_ExercicioRestaurante
                 Console.WriteLine($"DIGITE A IDADE DO CLIENTE {i} :");
                 Idade[i - 1] = int.Parse(Console.ReadLine());
 
+                DateTime HorarioAtual = new DateTime();
+                Console.WriteLine(HorarioAtual);   
                 
-               
 
             }
-
-
+            Console.WriteLine($"{Nome}, {Idade} ");
         }
-
-
     }
-
-
 }

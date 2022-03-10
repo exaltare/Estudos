@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\bin\Debug\net5.0\ExercicioRestaurante2.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\bin\Debug\net5.0\ExercicioRestaurante2.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\bin\Debug\net5.0\ExercicioRestaurante2.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\bin\Debug\net5.0\ExercicioRestaurante2.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\bin\Debug\net5.0\ExercicioRestaurante2.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\bin\Debug\net5.0\ExercicioRestaurante2.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ExercicioRestaurante2.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ExercicioRestaurante2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ExercicioRestaurante2.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ExercicioRestaurante2.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ExercicioRestaurante2.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ExercicioRestaurante2.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\refint\ExercicioRestaurante2.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ExercicioRestaurante2.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ExercicioRestaurante2.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioRestaurante2\obj\Debug\net5.0\ref\ExercicioRestaurante2.dll

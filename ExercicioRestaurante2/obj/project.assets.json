@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\7-ExercicioRestaurante\\7-ExercicioRestaurante.csproj",
-      "projectName": "7-ExercicioRestaurante",
-      "projectPath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\7-ExercicioRestaurante\\7-ExercicioRestaurante.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\ExercicioRestaurante2\\ExercicioRestaurante2.csproj",
+      "projectName": "ExercicioRestaurante2",
+      "projectPath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\ExercicioRestaurante2\\ExercicioRestaurante2.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\7-ExercicioRestaurante\\obj\\",
+      "outputPath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\ExercicioRestaurante2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
