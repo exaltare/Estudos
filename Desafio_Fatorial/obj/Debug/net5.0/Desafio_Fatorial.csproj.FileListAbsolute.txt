@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\bin\Debug\net5.0\Desafio_Fatorial.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\bin\Debug\net5.0\Desafio_Fatorial.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\bin\Debug\net5.0\Desafio_Fatorial.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\bin\Debug\net5.0\Desafio_Fatorial.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\bin\Debug\net5.0\Desafio_Fatorial.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\bin\Debug\net5.0\Desafio_Fatorial.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\Desafio_Fatorial.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\Desafio_Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\Desafio_Fatorial.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\Desafio_Fatorial.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\Desafio_Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\Desafio_Fatorial.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\refint\Desafio_Fatorial.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\Desafio_Fatorial.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\Desafio_Fatorial.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Desafio_Fatorial\obj\Debug\net5.0\ref\Desafio_Fatorial.dll
