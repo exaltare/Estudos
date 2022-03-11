@@ -19,8 +19,7 @@ class Principal {
             if (chute < aleatorio){
                 creditos -=1;
                 contador++;
-                Console.WriteLine
-                ("O NUMERO É MAIS ALTO");
+                Console.WriteLine("O NUMERO É MAIS ALTO");
                 
             } else if (chute > aleatorio){ 
                 creditos -=1;
