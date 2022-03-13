@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Restaurante_POO/1.0.0": {
+        "runtime": {
+          "Restaurante_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restaurante_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
