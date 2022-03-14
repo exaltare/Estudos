@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\bin\Debug\net5.0\Restaurante_POO.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\bin\Debug\net5.0\Restaurante_POO.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\bin\Debug\net5.0\Restaurante_POO.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\bin\Debug\net5.0\Restaurante_POO.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\bin\Debug\net5.0\Restaurante_POO.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\bin\Debug\net5.0\Restaurante_POO.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\Restaurante_POO.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\Restaurante_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\Restaurante_POO.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\Restaurante_POO.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\Restaurante_POO.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\Restaurante_POO.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\refint\Restaurante_POO.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\Restaurante_POO.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\Restaurante_POO.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Restaurante_POO\obj\Debug\net5.0\ref\Restaurante_POO.dll
