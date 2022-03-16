@@ -2,8 +2,7 @@ using System;
 class Jogador {
 	private int energia;
 	private string nome;
-	public int idade = 14;
-    
+	    
 	public Jogador(string nome) {
 		this.nome = nome;
 		energia = 100;
@@ -27,17 +26,15 @@ class Jogador {
 class Aula33 {
 	static void Main() {
 
-	Jogador j1 = new Jogador("DOUGLAS");
+	Jogador j1 = new Jogador("Douglas");
 
 	// Console.WriteLine(j1.nome);
 	// Console.WriteLine(j1.energia);
 
-        j1.setEnergia(-30);
+        j1.setEnergia(60);
 
-	j1.idade = 2509877; // modificado livremente, sem filtro
-
-        Console.WriteLine(j1.getNome());
+	    Console.WriteLine(j1.getNome());
         Console.WriteLine(j1.getEnergia());
-	Console.WriteLine(j1.idade); // public
+		
 	}
 }
