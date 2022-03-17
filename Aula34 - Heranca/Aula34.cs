@@ -1,11 +1,14 @@
 using System;
 
+// HERANCA É UM RECURSO DE POO ONDE UMA CLASE FILHA CLASSE DERIVADA HERDA MEMBROS DA CLASSE BASE 
+
+
 class Veiculo {	//classe base
     public int velMax;
     public int rodas;
     private bool ligado;
 
-    public void ligar() {
+    public void ligar() {					//METODO 
 	ligado = true;
     }
 
@@ -19,7 +22,7 @@ class Veiculo {	//classe base
     }
 }
 
-class Carro: Veiculo {
+class Carro: Veiculo {				// CLASE DERIVADA      BASE DERIVADA HERDA A CLASE BASE 
     public string nome; // por padrão é private?
     public string cor;
 
