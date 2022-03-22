@@ -5,40 +5,16 @@ class Veiculo {	//classe base
     private int rodas; //!
     private bool ligado;
 
-
-    public Veiculo (int rodas) { // construtor
-	this.rodas = rodas;
-
-    }
-
-    public void ligar() {
-	ligado = true;
-    }
-
-    public void desligar() {
-	ligado = false;
-    }
-
-    public string getLigado() {
-	if (ligado) return "ligado sim";
-	else return "ligado não";
-    }
-
-    public int getRodas() {
-	return rodas;
-    }
-
-    public int setRodas(int rodas) {
-	this.rodas = rodas;
-	if (this.rodas > 40) rodas = 40;
-	if (this.rodas < 0) rodas = 0;
-
-	return this.rodas;
+    public Veiculo (int rodas) => this.rodas = rodas;     //construtor 
+    public void ligar() => ligado = true; 
+    public void desligar() => ligado = false ;
+    public string getLigado() => ligado ? "Ligado Sim" : "Ligado Não";
+    public int getRodas() => rodas ; 
+    public int setRodas(int rodas) => (rodas > 40) ? 4 : 0 ;
 
 	/*this.rodas < 0 ? this.rodas = 0; 
-	this.rodas > 40 ? this.rodas = 40 : null; pelo visto não existe ternário sem o else, e o null não funcionou*/
-
-    }
+	this.rodas > 40 ? this.rodas = 4 : null; pelo visto não existe ternário sem o else, e o null não funcionou*/
+    
 }
 
 class Carro: Veiculo {
@@ -85,12 +61,13 @@ class Aula34 {
 
 	Console.WriteLine("-=-=-=-=-=-=");
 
-	Console.WriteLine(c2.nome);
+	Console.WriteLine(c.nome);
 	Console.WriteLine(c2.cor);
 	Console.WriteLine(c2.velMax);
 	Console.WriteLine(c2.getLigado());
 	Console.WriteLine(c2.getRodas());
 	Console.WriteLine(c2.municao);
+	
 	
 
     }

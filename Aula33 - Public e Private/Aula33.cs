@@ -1,23 +1,23 @@
 using System;
 class Jogador {
 	private int energia;
-	private string nome;
+	private string nome;					//objeto 
 	    
-	public Jogador(string nome) {
+	public Jogador(string nome) {              //instanciacao do objeto 
 		this.nome = nome;
 		energia = 100;
 		//idade = 14;  não precisa estar no construtor se já foi definido anteriormente
 		
 	}
 
-    	public int getEnergia() {  // óbvio que não precisa ser esse nome
-        	return energia;
+    	public int getEnergia() {  		// Metodo GET para obter 
+        	return energia; 			
     	}
-    	public string getNome() {
-        	return nome;
+    	public string getNome() {		
+        	return nome;				//retorna a propriedade nome
     	}
     
-    	public void setEnergia(int e) { // na verdade diminui energia
+    	public void setEnergia(int e) { // na verdade diminui energia   // energia nao pode ser <0 e nem >100
         	energia += e;
         	if (energia > 100) energia = 100;
         	if (energia < 0) energia = 0;

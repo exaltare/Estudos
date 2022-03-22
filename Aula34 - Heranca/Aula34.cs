@@ -2,7 +2,6 @@ using System;
 
 // HERANCA É UM RECURSO DE POO ONDE UMA CLASE FILHA CLASSE DERIVADA HERDA MEMBROS DA CLASSE BASE 
 
-
 class Veiculo {	//classe base
     public int velMax;
     public int rodas;
