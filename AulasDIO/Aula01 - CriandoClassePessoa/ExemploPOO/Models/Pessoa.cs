@@ -6,7 +6,7 @@ namespace ExemploPOO.Models
     {
         public string Nome { get ; set ;}
         public int Idade {get ; set ;}
-        public void Apresentar(){
+        public virtual void Apresentar(){    // metodo pode ser sobrescrito 
             Console.WriteLine($"OLÁ MEU NOME É {Nome} e tenho {Idade} Anos ");
         }
                 
