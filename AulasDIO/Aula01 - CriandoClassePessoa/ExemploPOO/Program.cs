@@ -5,17 +5,24 @@ namespace ExemploPOO{
     class Program{    
     static void Main(string[] args)
     {
-        Aluno p1 = new Aluno();
-        p1.Nome = "Douglas";
-        p1.Idade = 34;
-        p1.Nota = 10;    
-        p1.Apresentar();
 
-        Professor p2 = new Professor();
-        p2.Nome = "Douglas";
-        p2.Idade = 34;
-        p2.Salario = 10000;    
-        p2.Apresentar();
+        Conta conta = new 
+        // Claculadora calc = new Claculadora();
+        // System.Console.WriteLine("RESULTADO DA PRIMEIRA SOMA: " + calc.Somar(10,10));
+        // System.Console.WriteLine("RESULTADO DA PRIMEIRA SOMA: " + calc.Somar(10,10,10));
+
+
+        // Aluno p1 = new Aluno();
+        // p1.Nome = "Douglas";
+        // p1.Idade = 34;
+        // p1.Nota = 10;    
+        // p1.Apresentar();
+
+        // Professor p2 = new Professor();
+        // p2.Nome = "Douglas";
+        // p2.Idade = 34;
+        // p2.Salario = 10000;    
+        // p2.Apresentar();
 
 
 
