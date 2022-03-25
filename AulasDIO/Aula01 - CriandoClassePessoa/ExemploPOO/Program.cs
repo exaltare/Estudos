@@ -6,9 +6,13 @@ namespace ExemploPOO{
     static void Main(string[] args)
     {
 
-        Corrente c = new Corrente();
-        c.Creditar(100);
-        c.ExibirSaldo();
+        Computador comp = new Computador();
+        comp.ToString();
+        System.Console.WriteLine();
+
+        // Corrente c = new Corrente();
+        // c.Creditar(100);
+        // c.ExibirSaldo();
         // Claculadora calc = new Claculadora();
         // System.Console.WriteLine("RESULTADO DA PRIMEIRA SOMA: " + calc.Somar(10,10));
         // System.Console.WriteLine("RESULTADO DA PRIMEIRA SOMA: " + calc.Somar(10,10,10));
