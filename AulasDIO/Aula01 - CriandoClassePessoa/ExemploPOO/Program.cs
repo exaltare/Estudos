@@ -1,4 +1,5 @@
 ﻿using System;
+using ExemploPOO.Interfaces;
 using ExemploPOO.Models;
 
 namespace ExemploPOO{
@@ -6,9 +7,12 @@ namespace ExemploPOO{
     static void Main(string[] args)
     {
 
-        Computador comp = new Computador();
-        comp.ToString();
-        System.Console.WriteLine();
+        ICalculadora calc = new Claculadora();
+        System.Console.WriteLine(calc.Somar(10 , 20 ));
+
+        // Computador comp = new Computador();
+        // comp.ToString();
+        // System.Console.WriteLine();
 
         // Corrente c = new Corrente();
         // c.Creditar(100);

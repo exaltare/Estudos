@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPOO\\ExemploPOO.csproj": {}
+    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPoo\\ExemploPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPOO\\ExemploPOO.csproj": {
+    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPoo\\ExemploPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPOO\\ExemploPOO.csproj",
+        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPoo\\ExemploPOO.csproj",
         "projectName": "ExemploPOO",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPOO\\ExemploPOO.csproj",
+        "projectPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPoo\\ExemploPOO.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPOO\\obj\\",
+        "outputPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\DEV\\AulasDIO\\Aula01 - CriandoClassePessoa\\ExemploPoo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
