@@ -16,13 +16,5 @@ static void Main(){
     Console.WriteLine("Lucro................:{0,15:p}",lucro);             //P para saida de porcentagem
     Console.WriteLine("Val.Venda............:{0,15:c}",valorVenda);
     Console.WriteLine();
-
-
-
-
-
-    
-    
-
 }
 }

@@ -47,10 +47,7 @@
       nome=n;        
     
       }
-
-      ~Jogador(){
-          Console.WriteLine("Jogador {0} Foi destruido ", nome);
-      }
+      
    }
 
   

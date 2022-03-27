@@ -1,10 +1,6 @@
 //------ESBOÇO DA CLASSE MOSTRADA NA AULA:---------------------------------------//
 // 
 //      O QUE É UMA CLASSE? É UM TIPO DE DADO COMPOSTO POR MEMBROS, OS MEMBROS SAO PROPRIEDADES E METODOS (FUNCOES)
-//      
-//          
-//
-//
 //      [ModificadorClasse] class NOME_DA_CLASSE (DEFINI A VISIBILDIADE DA CLASSE)
 //      {
 //      Variáveis / Propriedades
@@ -49,7 +45,7 @@
         Jogador j3=new Jogador(); 
         Jogador j4=new Jogador(); 
 
-        // new vai reservar a memoria e vai retornar o endereco da memoria alocada 
+         // new vai reservar a memoria e vai retornar o endereco da memoria alocada 
         // alterar a energia antes de imprimir como acessar uma propriedade publica pode ler ou alterar 
 
         j1.energia = 45;
