@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\Carro.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\Carro.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\Carro.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\bin\Debug\net5.0\Carro.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\bin\Debug\net5.0\Carro.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\bin\Debug\net5.0\Carro.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\bin\Debug\net5.0\Carro.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\bin\Debug\net5.0\Carro.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\bin\Debug\net5.0\Carro.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\Carro.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\refint\Carro.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\Carro.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\Carro.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Carro\obj\Debug\net5.0\ref\Carro.dll

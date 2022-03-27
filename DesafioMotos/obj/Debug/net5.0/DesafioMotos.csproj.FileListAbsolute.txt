@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\bin\Debug\net5.0\DesafioMotos.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\bin\Debug\net5.0\DesafioMotos.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\bin\Debug\net5.0\DesafioMotos.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\bin\Debug\net5.0\DesafioMotos.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\bin\Debug\net5.0\DesafioMotos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\bin\Debug\net5.0\DesafioMotos.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\DesafioMotos.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\DesafioMotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\DesafioMotos.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\DesafioMotos.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\DesafioMotos.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\DesafioMotos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\refint\DesafioMotos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\DesafioMotos.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\DesafioMotos.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMotos\obj\Debug\net5.0\ref\DesafioMotos.dll
