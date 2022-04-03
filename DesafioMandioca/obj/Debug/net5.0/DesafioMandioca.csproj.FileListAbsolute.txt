@@ -1,0 +1,5 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMandioca\obj\Debug\net5.0\DesafioMandioca.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMandioca\obj\Debug\net5.0\DesafioMandioca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMandioca\obj\Debug\net5.0\DesafioMandioca.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMandioca\obj\Debug\net5.0\DesafioMandioca.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\DesafioMandioca\obj\Debug\net5.0\DesafioMandioca.csproj.CoreCompileInputs.cache
