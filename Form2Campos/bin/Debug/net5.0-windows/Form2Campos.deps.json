@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Form2Campos/1.0.0": {
+        "runtime": {
+          "Form2Campos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Form2Campos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
