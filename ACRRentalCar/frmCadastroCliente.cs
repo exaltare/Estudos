@@ -115,10 +115,6 @@ namespace ACRRentalCar
             return true;
         }
 
-        private void frmCadastroCliente_Load(object sender, EventArgs e)
-        {
-
-        }
 
         private void btnIncluir_Click(object sender, EventArgs e)
         {
