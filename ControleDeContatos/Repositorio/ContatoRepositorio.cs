@@ -9,7 +9,7 @@ namespace ControleDeContatos.Repositorio
 {
     public class ContatoRepositorio : IContatoRepositorio
     {
-        private readonly BancoContext _bancoContext;
+        private readonly BancoContext _bancoContext;            //_ por que ela é privada 
 
         public ContatoRepositorio(BancoContext bancoContext)
         {
@@ -28,8 +28,9 @@ namespace ControleDeContatos.Repositorio
 
         public ContatoModel Adicionar(ContatoModel contato)
         {
-            _bancoContext.Contato.Add(contato);
-            _bancoContext.SaveChanges();
+           //grava no banco de dados 
+            _bancoContext.Contato.Add(contato);      //inserindo no banco
+            _bancoContext.SaveChanges();            //comintando as informacoes salvechanges para salvar as alteracoes
             return contato;
         }
 
@@ -42,6 +43,12 @@ namespace ControleDeContatos.Repositorio
             contatoDB.Nome = contato.Nome;
             contatoDB.Email = contato.Email;
             contatoDB.Celular = contato.Celular;
+            contatoDB.Nacionalidade = contato.Nacionalidade;
+            contatoDB.CEP = contato.CEP;
+            contatoDB.Estado = contato.Estado;
+            contatoDB.Cidade = contato.Cidade;
+            contatoDB.Logradouro = contato.Logradouro;
+
 
             _bancoContext.Contato.Update(contatoDB);
             _bancoContext.SaveChanges();
@@ -52,7 +59,7 @@ namespace ControleDeContatos.Repositorio
         {
             ContatoModel contatoDB = FindById(id);
 
-            if (contatoDB == null) throw new Exception("Houve um erro na deleção do contato");
+            if (contatoDB == null) throw new Exception("Houve um erro na exclusão do contato");
 
             _bancoContext.Remove(contatoDB);
             _bancoContext.SaveChanges();

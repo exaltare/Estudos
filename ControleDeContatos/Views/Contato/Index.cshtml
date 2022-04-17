@@ -1,27 +1,27 @@
 ﻿@model List<ContatoModel>
 @{
-    ViewData["Title"] = "Listagem de Contatos";
+    ViewData["Title"] = "Listagem de Cadastros";
 }
 <div class="text-center">
     <div class="d-grid gap-2 d-md-flex justify-content-md-start">
         <a class="btn btn-outline-success" asp-controller="Contato" asp-action="Criar">Adicionar um Novo Contato  <i class="fa-solid fa-plus"></i></a>
     </div>
     <br />
-    <h1 class="display-4">Listagem de Contatos</h1>
+    <h1 class="display-4">Lista de Cadastros</h1>
     <br />
 
     @if (TempData["MensagemSucesso"] != null)
     {
         <div class="alert alert-success" role="alert">
-            <button class="btn btn-danger btn-sm close-alert" type="button" aria-label="close">X</button>
-            @TempData["MensagemSucesso"]
+            
+            @TempData["MensagemSucesso"]                
         </div>
     }
 
     @if (TempData["MensagemErro"] != null)
     {
         <div class="alert alert-danger" role="alert">
-            <button class="btn btn-danger btn-sm close-alert" type="button" aria-label="close">X</button>
+            
             @TempData["MensagemErro"]
         </div>
     }
@@ -33,7 +33,12 @@
                 <th scope="col">#</th>
                 <th scope="col">Nome</th>
                 <th scope="col">Email</th>
-                <th scope="col">Celular</th>
+                <th scope="col">Celular</th>             
+                <th scope="col">Nacionalidade</th>
+                <th scope="col">CEP</th>
+                <th scope="col">Estado</th>
+                <th scope="col">Cidade</th>
+                <th scope="col">Logradouro</th>
                 <th scope="col"></th>
             </tr>
         </thead>
@@ -43,16 +48,22 @@
                 @foreach (ContatoModel contato in Model)
                 {
                     <tr>
-                        <th scope="row">@contato.Id</th>
+                        <th scope="row">@contato.Id</th>                       
                         <td>@contato.Nome</td>
                         <td>@contato.Email</td>
-                        <td>@contato.Celular</td>
-                        <td>
+                        <td>@contato.Celular</td> 
+                        <td>@contato.Nacionalidade</td>
+                        <td>@contato.CEP</td>
+                        <td>@contato.Estado</td>
+                        <td>@contato.Cidade</td>
+                        <td>@contato.Logradouro</td>
+                         <td>
                             <div class="text-white" role="group">
                                 <a role="button" class="btn btn-danger" asp-route-id="@contato.Id" asp-controller="Contato" asp-action="ApagarConfirmacao">Apagar</a>
                                 <a role="button" class="btn btn-secondary" asp-route-id="@contato.Id" asp-controller="Contato" asp-action="Editar">Editar</a>
                             </div>
                         </td>
+                        
                     </tr>
                 }
             }

@@ -1,11 +1,11 @@
 ﻿@model ContatoModel
 @{
-    ViewData["Title"] = "Editar Contatos";
+    ViewData["Title"] = "Editar Cadastro";
 }
 
 <div class="col-lg-6 col-md-8 mx-auto mt-5">
     <div class="text-center mb-4">
-        <h1 class="display-4">Editar Contatos</h1>
+        <h1 class="display-4">Editar Cadastro</h1>
     </div>
 
     <form asp-controller="Contato" asp-action="Alterar" method="post">
@@ -20,15 +20,46 @@
 
         <div class="mb-3">
             <label for="email" class="form-label">Email: </label>
-            <input type="email" asp-for="Email" class="form-control" id="email" placeholder="Digite o email do contato">
+            <input type="email" asp-for="Email" class="form-control" id="email" placeholder="contato@email.com.br">
             @Html.ValidationMessageFor(x => x.Email)
         </div>
 
         <div class="mb-3">
             <label for="celular" class="form-label">Celular: </label>
-            <input type="tel" asp-for="Celular" class="form-control" id="celular" placeholder="Digite nº do celular do contato">
+            <input type="tel" asp-for="Celular" class="form-control" id="celular" placeholder="00-00000.0000">
             @Html.ValidationMessageFor(x => x.Celular)
         </div>
+
+        <div class="mb-3">
+            <label for="nacionalidade" class="form-label">Nacionalidade: </label>
+            <input type="text" asp-for="Nacionalidade" class="form-control" id="Nacionalidade" placeholder="Digite a Nacionalidade">
+            @Html.ValidationMessageFor(x => x.Nacionalidade)
+        </div>
+
+        <div class="mb-3">
+            <label for="CEP" class="form-label">CEP: </label>
+            <input type="tel" asp-for="CEP" class="form-control" id="CEP" placeholder="00000-000">
+            @Html.ValidationMessageFor(x => x.CEP)
+        </div>
+
+        <div class="mb-3">
+            <label for="Estado" class="form-label">Estado: </label>
+            <input type="text" asp-for="Estado" class="form-control" id="Estado" placeholder="AM">
+            @Html.ValidationMessageFor(x => x.Estado)
+        </div>
+
+        <div class="mb-3">
+            <label for="Cidade" class="form-label">Cidade: </label>
+            <input type="text" asp-for="Cidade" class="form-control" id="Cidade" placeholder="Digite a Cidade">
+            @Html.ValidationMessageFor(x => x.Cidade)
+        </div>
+
+        <div class="mb-3">
+            <label for="Logradouro" class="form-label">Logradouro: </label>
+            <input type="text" asp-for="Logradouro" class="form-control" id="Logradouro" placeholder="Rua Exemplo , 100 ">
+            @Html.ValidationMessageFor(x => x.Logradouro)
+        </div>
+
 
         <button type="submit" class="btn btn-primary btn-block">Alterar&ensp;<i class="fa-solid fa-pen-to-square"></i></button>
         <a class="btn btn-secondary btn-block" asp-controller="Contato" asp-action="Index">Voltar</a>
