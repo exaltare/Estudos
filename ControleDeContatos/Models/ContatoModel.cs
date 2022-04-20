@@ -12,7 +12,11 @@ namespace ControleDeContatos.Models
 
         [Required(ErrorMessage = "Digite o nome do Contato!")]                  //Required para obrigar a digitação do campo 
         public string Nome { get; set; }
-        
+
+        [Required(ErrorMessage = "Digite o CPF !")]        
+        [StringLength (14)]
+        public string CPF { get; set; } 
+
         [Required(ErrorMessage = "Digite o email do Contato!")]                 //Required para obrigar a digitação do campo 
         [EmailAddress(ErrorMessage = "O email informado não é válido")]         //Validação se o email é valido
         public string Email { get; set; }

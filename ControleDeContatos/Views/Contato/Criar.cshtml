@@ -11,9 +11,17 @@
     <form asp-controller="Contato" asp-action="Criar" method="post">
         <div class="mb-3">
             <label for="nome" class="form-label">Nome: </label>
-            <input type="text" asp-for="Nome" class="form-control" id="nome" placeholder="Digite o nome do contato">
+            <input type="text" asp-for="Nome" class="form-control" id="nome" placeholder="Digite o Nome">
             @Html.ValidationMessageFor(x => x.Nome)
         </div>
+
+        <div class="mb-3">
+            <label for="CPF" class="form-label">CPF: </label>
+            <input type="text" asp-for="CPF" class="form-control" id="CPF" placeholder="000.000.000-00">
+            @Html.ValidationMessageFor(x => x.CPF)
+        </div>
+
+
 
         <div class="mb-3">
             <label for="email" class="form-label">Email: </label>
@@ -71,12 +79,9 @@
                 <option >Sergipe</option>
                 <option >Tocantins</option>
             </select>
-
             @Html.ValidationMessageFor(x => x.Estado)
         </div>
 
-
-        
 
         <div class="mb-3">
             <label for="Cidade" class="form-label">Cidade: </label>

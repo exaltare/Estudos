@@ -19,6 +19,12 @@
         </div>
 
         <div class="mb-3">
+            <label for="CPF" class="form-label">CPF: </label>
+            <input type="text" asp-for="CPF" class="form-control" id="CPF" placeholder="000.000.000-00">
+            @Html.ValidationMessageFor(x => x.CPF)
+        </div>
+
+        <div class="mb-3">
             <label for="email" class="form-label">Email: </label>
             <input type="email" asp-for="Email" class="form-control" id="email" placeholder="contato@email.com.br">
             @Html.ValidationMessageFor(x => x.Email)
