@@ -72,14 +72,12 @@ namespace ACRRentalCar
                 //verifica se retornou registro na consulta SQL
                 //se retornou, preenche a tela do frmCadastroCliente com os dados armazenados no DataReader dtr
                 //chama o método Read( ) para ler os registros no dtr
-                if (dtr.Read())
+                 if (dtr.Read())
                 {
-                    //para o Form frmCadastroCliente
-                    //atribui ao TextBox o valor do campo ID_CLIENTE do banco de dados retornado na consulta
+                    //para o FrmCadastroCliente
+                    //atribui ao TextBox o valor do campo   ID_CLIENTE do banco de dados retornando na consulta
                     frmCliente.txtCodigo.Text = dtr["ID_CLIENTE"].ToString();
-
-                    frmCliente.txtNome
-                        .Text = dtr["NOME"].ToString();
+                    frmCliente.txtNome.Text = dtr["NOME"].ToString();
                     frmCliente.mskDtNasc.Text = dtr["DATA_NASC"].ToString();
                     frmCliente.mskCPF.Text = dtr["CPF"].ToString();
                 }
