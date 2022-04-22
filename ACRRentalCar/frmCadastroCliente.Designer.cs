@@ -1,4 +1,9 @@
-﻿namespace ACRRentalCar
+﻿using System.Data.SqlClient;
+using System;
+
+
+namespace ACRRentalCar
+
 {
     partial class frmCadastroCliente
     {
@@ -184,6 +189,11 @@
             this.ResumeLayout(false);
             this.PerformLayout();
 
+        }
+
+        private void frmCadastroCliente_Load(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
