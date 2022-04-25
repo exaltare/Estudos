@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\bin\Debug\net5.0\ExercicioFaculdade.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\bin\Debug\net5.0\ExercicioFaculdade.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\bin\Debug\net5.0\ExercicioFaculdade.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\bin\Debug\net5.0\ExercicioFaculdade.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\bin\Debug\net5.0\ExercicioFaculdade.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\bin\Debug\net5.0\ExercicioFaculdade.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ExercicioFaculdade.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ExercicioFaculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ExercicioFaculdade.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ExercicioFaculdade.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ExercicioFaculdade.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ExercicioFaculdade.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\refint\ExercicioFaculdade.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ExercicioFaculdade.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ExercicioFaculdade.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\ExercicioFaculdade\obj\Debug\net5.0\ref\ExercicioFaculdade.dll
