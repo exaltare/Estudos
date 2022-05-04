@@ -10,13 +10,13 @@ namespace ControleEstoque.Web.Controllers
     {
         // GET: Grafico
 
-        [Authorize]
+        //[Authorize]
         public ActionResult IndPerdaMesex()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult EntradaSaidaMesa()
         {
             return View();

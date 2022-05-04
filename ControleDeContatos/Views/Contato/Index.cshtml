@@ -1,4 +1,4 @@
-﻿@model List<ContatoModel>
+﻿@model IEnumerable<ControleDeContatos.Models.ContatoModel>
 @{
     ViewData["Title"] = "Listagem de Cadastros";
 }
@@ -32,6 +32,7 @@
             <tr>
                 <th scope="col">Reg </th>
                 <th scope="col">Nome</th>
+                <th scope="col">Sobre Nome</th>
                 <th scope="col">CPF</th>
                 <th scope="col">Email</th>
                 <th scope="col">Celular</th>             
@@ -51,6 +52,7 @@
                     <tr>
                         <th scope="row">@contato.Id</th>                       
                         <td>@contato.Nome</td>
+                        <td>@contato.SobreNome</td>
                         <td>@contato.CPF</td>
                         <td>@contato.Email</td>
                         <td>@contato.Celular</td> 

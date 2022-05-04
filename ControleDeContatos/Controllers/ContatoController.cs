@@ -1,6 +1,8 @@
-﻿using ControleDeContatos.Models;
+﻿using ControleDeContatos.Data;
+using ControleDeContatos.Models;
 using ControleDeContatos.Repositorio;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,15 +13,20 @@ namespace ControleDeContatos.Controllers
     public class ContatoController : Controller
     {
         private readonly IContatoRepositorio _contatoRepositorio;
+        private readonly BancoContext _bancoContext;
 
-        public ContatoController(IContatoRepositorio contatoRepositorio)
+
+        public ContatoController(IContatoRepositorio contatoRepositorio, BancoContext bancoContext)
         {
+            _bancoContext = bancoContext;
             _contatoRepositorio = contatoRepositorio;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            List<ContatoModel> contatos = _contatoRepositorio.BuscarTodos();
+            var contatos = await _bancoContext.Contato.ToListAsync();
+            //List<ContatoModel> contatos = new List<ContatoModel>();
+            //contatos = _contatoRepositorio.BuscarTodos();
             return View(contatos);
         }
 

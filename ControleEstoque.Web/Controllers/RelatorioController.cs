@@ -10,14 +10,14 @@ namespace ControleEstoque.Web.Controllers
     {
         // GET: Relatorio
 
-        [Authorize]
+        //[Authorize]
         public ActionResult PosicaoEstoque()
         {
             return View();
         }
 
 
-        [Authorize]
+        //[Authorize]
         public ActionResult Ressuprimento()
         {
             return View();

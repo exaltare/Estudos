@@ -69,6 +69,11 @@ namespace CadastroComp.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("SobreNome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(50)");
+
+
                     b.HasKey("Id");
 
                     b.ToTable("Contato");

@@ -10,68 +10,68 @@ namespace ControleEstoque.Web.Controllers
     {
         // GET: Cadastro
 
-        [Authorize]
+        //[Authorize]
         public ActionResult GrupoProduto()
         {
             return View();
         }
 
-        [Authorize]
+       // [Authorize]
         public ActionResult MarcaProduto()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult LocalProduto()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult UnidadeMedida()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult Produto()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult Pais()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult Estado()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult Cidade()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult Fornecedor()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult PerfilUsuario
 ()
         {
             return View();
         }
 
-        [Authorize]
+        //[Authorize]
         public ActionResult Usuario()
         {
             return View();

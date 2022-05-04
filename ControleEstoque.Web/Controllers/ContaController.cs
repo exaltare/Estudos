@@ -9,7 +9,7 @@ namespace ControleEstoque.Web.Controllers
 {
     public class ContaController : Controller
     {
-        [AllowAnonymous]
+        //[AllowAnonymous]
         public ActionResult Login(string returUrl)
         {
             ViewBag.ReturUrl = returUrl;
@@ -18,7 +18,7 @@ namespace ControleEstoque.Web.Controllers
 
 
         [HttpPost]
-        [AllowAnonymous]
+        //[AllowAnonymous]
 
         public ActionResult Login(LoginViewModel login, string returnUrl)
         {

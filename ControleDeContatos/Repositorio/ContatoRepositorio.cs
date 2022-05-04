@@ -48,6 +48,7 @@ namespace ControleDeContatos.Repositorio
             contatoDB.Estado = contato.Estado;
             contatoDB.Cidade = contato.Cidade;
             contatoDB.Logradouro = contato.Logradouro;
+            contatoDB.SobreNome = contato.SobreNome;
 
 
             _bancoContext.Contato.Update(contatoDB);

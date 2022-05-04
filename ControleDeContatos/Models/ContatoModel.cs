@@ -13,6 +13,10 @@ namespace ControleDeContatos.Models
         [Required(ErrorMessage = "Digite o nome do Contato!")]                  //Required para obrigar a digitação do campo 
         public string Nome { get; set; }
 
+        [Required(ErrorMessage = "Digite o Sobrenome do Contato!")]               //Required para obrigar a digitação do campo 
+        [StringLength(50)]
+        public string SobreNome { get; set; }
+
         [Required(ErrorMessage = "Digite o CPF !")]        
         [StringLength (14)]
         public string CPF { get; set; } 
@@ -46,5 +50,7 @@ namespace ControleDeContatos.Models
         [Required(ErrorMessage = "Digite o Logradouro do Contato!")]               //Required para obrigar a digitação do campo 
         [StringLength(150)]
         public string Logradouro { get; set; }
+
+        
     }
 }
