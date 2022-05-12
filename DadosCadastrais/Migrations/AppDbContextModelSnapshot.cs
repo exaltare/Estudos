@@ -18,7 +18,7 @@ namespace DadosCadastrais.Migrations
                 .HasAnnotation("ProductVersion", "5.0.17")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("DadosCadastrais.Models.Contato", b =>
+            modelBuilder.Entity("DadosCadastrais.Models.ContatoModel", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -57,7 +57,7 @@ namespace DadosCadastrais.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Contatos");
+                    b.ToTable("Dados");
                 });
 #pragma warning restore 612, 618
         }

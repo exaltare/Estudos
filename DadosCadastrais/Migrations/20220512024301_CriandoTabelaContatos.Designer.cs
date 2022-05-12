@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DadosCadastrais.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220511205524_Contatos")]
-    partial class Contatos
+    [Migration("20220512024301_CriandoTabelaContatos")]
+    partial class CriandoTabelaContatos
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -20,7 +20,7 @@ namespace DadosCadastrais.Migrations
                 .HasAnnotation("ProductVersion", "5.0.17")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("DadosCadastrais.Models.Contato", b =>
+            modelBuilder.Entity("DadosCadastrais.Models.ContatoModel", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -59,7 +59,7 @@ namespace DadosCadastrais.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Contatos");
+                    b.ToTable("Dados");
                 });
 #pragma warning restore 612, 618
         }

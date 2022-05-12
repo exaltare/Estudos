@@ -1,9 +1,8 @@
 ﻿namespace DadosCadastrais.Models
 {
-    public class Contato
+    public class InputContatoModel
     {
-       
-        public int Id { get; set; }
+              
 
         public string Nome { get; set; }
 

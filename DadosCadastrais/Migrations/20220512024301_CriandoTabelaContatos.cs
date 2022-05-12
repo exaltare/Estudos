@@ -2,12 +2,12 @@
 
 namespace DadosCadastrais.Migrations
 {
-    public partial class Contatos : Migration
+    public partial class CriandoTabelaContatos : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Contatos",
+                name: "Dados",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -25,14 +25,14 @@ namespace DadosCadastrais.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Contatos", x => x.Id);
+                    table.PrimaryKey("PK_Dados", x => x.Id);
                 });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Contatos");
+                name: "Dados");
         }
     }
 }

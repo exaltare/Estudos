@@ -7,7 +7,11 @@ namespace DadosCadastrais.Context
 {
     public class AppDbContext : DbContext
     {
-        public DbSet<Contato> Contatos { get; set; }
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+                
+        }
+        public DbSet<ContatoModel> Dados { get; set; }
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
