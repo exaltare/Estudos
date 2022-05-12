@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wL/w6ibToEt1s4aSE0GOCv27h9lSVn0lCyeMJcd/uo4VDls59MiDI98GWYs9XoSAjWkV95CQrQ82DJANpitNpQ==",
+  "dgSpecHash": "/AhX1AFoc6/ER465LvJ0LS+b46JnVQCeuf/0jA8z7iUPyi6wFihqNde8T98+kECyITdv3CyS9Z4qrdmkZ251WQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\Contatos\\Contatos.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,7 @@
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
