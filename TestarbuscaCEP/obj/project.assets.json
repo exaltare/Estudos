@@ -1009,9 +1009,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\TestarbuscaCEP\\TestarbuscaCEP.csproj",
-      "projectName": "TestarbuscaCEP",
-      "projectPath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\TestarbuscaCEP\\TestarbuscaCEP.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\TestarbuscaCEP\\TestarbuscaCPF.csproj",
+      "projectName": "TestarbuscaCPF",
+      "projectPath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\TestarbuscaCEP\\TestarbuscaCPF.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\TestarbuscaCEP\\obj\\",
       "projectStyle": "PackageReference",

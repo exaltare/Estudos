@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qe/MXuge7eIkRrPhf5rFxzOqbu3p/dYLvvZzhMBCtNIykNvS8frmGo5YnfANmLXawNWBnL6HoAR/daGB58Wr+w==",
+  "dgSpecHash": "sGaS2I28+2PqKa8hnyoybU5/RH+Qm0zJGsPTuZftCL5KYjD2xjG0QToMq+5j1/mFbzUm+V9Tq5nBTPNNbxzBpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\TestarbuscaCEP\\TestarbuscaCEP.csproj",
+  "projectFilePath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\TestarbuscaCEP\\TestarbuscaCPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dougl\\.nuget\\packages\\correios-api\\1.1.1\\correios-api.1.1.1.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\docsbrvalidator\\1.2.1\\docsbrvalidator.1.2.1.nupkg.sha512",
