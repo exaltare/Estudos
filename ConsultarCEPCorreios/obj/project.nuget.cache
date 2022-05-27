@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "iq8at03h4hIDlYw8GIoixeONdUqoBHACJnUpJ82mmVVyqkzg9uSUKzJWmzgwtRvsj9wv0jFe5Ol7W3nJfw7SuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dougl\\source\\repos\\exaltare\\Estudos\\ConsultarCEPCorreios\\ConsultarCEPCorreios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\correios.cep.net\\1.1.6\\correios.cep.net.1.1.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Correios.CEP.Net 1.1.6' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Correios.CEP.Net",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

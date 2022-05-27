@@ -24,7 +24,7 @@ namespace ControleDeContatos.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var contatos = await _bancoContext.Contato.ToListAsync();
+            var contatos = await _bancoContext.BancoContatos.ToListAsync();
             //List<ContatoModel> contatos = new List<ContatoModel>();
             //contatos = _contatoRepositorio.BuscarTodos();
             return View(contatos);

@@ -67,9 +67,14 @@ namespace CadastroComp.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("SobreNome")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
                     b.HasKey("Id");
 
-                    b.ToTable("Contato");
+                    b.ToTable("BancoContatos");
                 });
 #pragma warning restore 612, 618
         }

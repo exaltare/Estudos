@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -8,12 +8,13 @@ namespace ControleDeContatos.Models
 {
     public class ContatoModel
     {
+        [Key]
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Digite o nome do Contato!")]                  //Required para obrigar a digitação do campo 
         public string Nome { get; set; }
 
-        [Required(ErrorMessage = "Digite o Sobrenome do Contato!")]               //Required para obrigar a digitação do campo 
+        [Required(ErrorMessage = "Digite o SobreNome do Contato!")]               //Required para obrigar a digitação do campo 
         [StringLength(50)]
         public string SobreNome { get; set; }
 

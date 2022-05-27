@@ -1,0 +1,15 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\refint\01Conceitos.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Orientação_A_Objetos\01Conceitos\obj\Debug\net6.0\ref\01Conceitos.dll

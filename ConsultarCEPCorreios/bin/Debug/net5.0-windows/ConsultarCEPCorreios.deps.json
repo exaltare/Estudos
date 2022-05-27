@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsultarCEPCorreios/1.0.0": {
+        "dependencies": {
+          "Correios.CEP.Net": "1.1.6"
+        },
+        "runtime": {
+          "ConsultarCEPCorreios.dll": {}
+        }
+      },
+      "Correios.CEP.Net/1.1.6": {
+        "runtime": {
+          "lib/Correios.Net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsultarCEPCorreios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Correios.CEP.Net/1.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5xiGLVdvGxlG5SnOYHusZnAyveuxVQaqTkW002iV7sFeWZlhzxaUUE/ghjhnr+dh6ic+HauYnY9zGcg74fzH2Q==",
+      "path": "correios.cep.net/1.1.6",
+      "hashPath": "correios.cep.net.1.1.6.nupkg.sha512"
+    }
+  }
+}

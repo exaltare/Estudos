@@ -13,7 +13,7 @@ namespace ControleDeContatos.Data
 
         {
         }
-        public DbSet<ContatoModel> Contato { get; set; }
+        public DbSet<ContatoModel> BancoContatos { get; set; }
 
     }
 }

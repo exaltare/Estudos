@@ -18,18 +18,18 @@ namespace ControleDeContatos.Repositorio
 
         public ContatoModel FindById(int id)
         {
-            return _bancoContext.Contato.FirstOrDefault(x => x.Id == id);
+            return _bancoContext.BancoContatos.FirstOrDefault(x => x.Id == id);
         }
 
         public List<ContatoModel> BuscarTodos()
         {
-            return _bancoContext.Contato.ToList();
+            return _bancoContext.BancoContatos.ToList();
         }
 
         public ContatoModel Adicionar(ContatoModel contato)
         {
            //grava no banco de dados 
-            _bancoContext.Contato.Add(contato);      //inserindo no banco
+            _bancoContext.BancoContatos.Add(contato);      //inserindo no banco
             _bancoContext.SaveChanges();            //comintando as informacoes salvechanges para salvar as alteracoes
             return contato;
         }
@@ -51,7 +51,7 @@ namespace ControleDeContatos.Repositorio
             contatoDB.SobreNome = contato.SobreNome;
 
 
-            _bancoContext.Contato.Update(contatoDB);
+            _bancoContext.BancoContatos.Update(contatoDB);
             _bancoContext.SaveChanges();
             return contatoDB;
         }
