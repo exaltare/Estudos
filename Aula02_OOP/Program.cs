@@ -28,7 +28,7 @@ namespace Aula02_OOP
             Console.WriteLine("Limite : " + conta1.Limite);
             Console.WriteLine("O Numero da Conta é : " + conta1.Numero);
 
-            Console.WriteLine("___________________________________________________")
+            Console.WriteLine("___________________________________________________");
 
             Console.WriteLine("Olá o Seu Saldo é : " + conta2.Saldo);
             Console.WriteLine("Limite : " + conta2.Limite);
