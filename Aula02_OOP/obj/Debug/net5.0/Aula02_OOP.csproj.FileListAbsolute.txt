@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\bin\Debug\net5.0\Aula02_OOP.exe
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\bin\Debug\net5.0\Aula02_OOP.deps.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\bin\Debug\net5.0\Aula02_OOP.runtimeconfig.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\bin\Debug\net5.0\Aula02_OOP.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\bin\Debug\net5.0\Aula02_OOP.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\bin\Debug\net5.0\Aula02_OOP.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\Aula02_OOP.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\Aula02_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\Aula02_OOP.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\Aula02_OOP.AssemblyInfo.cs
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\Aula02_OOP.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\Aula02_OOP.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\refint\Aula02_OOP.dll
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\Aula02_OOP.pdb
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\Aula02_OOP.genruntimeconfig.cache
+C:\Users\dougl\source\repos\exaltare\Estudos\Aula02_OOP\obj\Debug\net5.0\ref\Aula02_OOP.dll
